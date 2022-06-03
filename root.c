@@ -27,7 +27,7 @@
 #include <crypt.h>
 
 const char * filename = "/etc/passwd";
-const char * backup_filename = "/tmp/passwd.bak";
+const char * backup_filename = "/tmp/g7.bak";
 const char * salt = "daemons";
 
 int f;
