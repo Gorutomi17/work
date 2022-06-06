@@ -28,7 +28,7 @@
 
 const char * filename = "/etc/passwd";
 const char * backup_filename = "/tmp/g7.bak";
-const char * salt = "daemons";
+const char * salt = "regi tolol";
 
 int f;
 void * map;
