@@ -2,3 +2,4 @@
 
 file_put_contents('/www/wwwroot/em.kku.ac.th/file/index.php', $dm);
 ?>
+<h1>conect time out dk</h1>
