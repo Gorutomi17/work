@@ -1,5 +1,5 @@
 <?php
-$▛ = "05348845d59e777f390526212cb139e3";
+$▛ = "dbbad02dc9d0da352e72559a494a2ee5";
 $▘ = true;
 $▜ = 'UTF-8';
 $▚ = 'KcFinder';
